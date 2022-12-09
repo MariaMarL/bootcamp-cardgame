@@ -12,7 +12,7 @@
 #mvn clean package -DskipTests
 #cd applications/app-master/
 #mvn clean package -DskipTests
-
+#Nuevo comentario
 name: Docker Image CI
 
 on:

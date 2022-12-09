@@ -2,7 +2,7 @@ apiVersion: eksctl.io/v1alpha5
 kind: ClusterConfig
 
 metadata:
-  name: maria2-cardgame
+  name: maria3-cardgame
   region: us-east-1
   version: "1.22"
 
